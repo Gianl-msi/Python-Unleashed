@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom folders
+Blog/
+.Blog/
+
 # Distribution / packaging
 .Python
 build/
