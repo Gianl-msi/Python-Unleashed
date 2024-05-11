@@ -9,6 +9,9 @@ __pycache__/
 # Custom folders
 Blog/
 .Blog/
+Image Classification With CNN/Data
+.Image Classification With CNN/Data
+
 
 # Distribution / packaging
 .Python
