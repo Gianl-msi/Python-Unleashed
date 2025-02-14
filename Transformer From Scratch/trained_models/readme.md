@@ -1,1 +1,1 @@
-folder to host trained models's folder
+folder to host trained models' folder
