@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Custom folders
 testing
 Blog/
@@ -14,6 +15,8 @@ Image Classification With CNN/Data
 Autoencoders - GANs - Variational Autoencoders/Data
 Autoencoders - GANs - Variational Autoencoders/Train
 ImagesCreated/
+GPT2 From Scratch/data
+GPT2 From Scratch/37M params
 
 # Distribution / packaging
 .Python
